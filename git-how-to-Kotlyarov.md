@@ -19,3 +19,7 @@ cat ~/.ssh/ed25519.pub
 git remote add origin URL
 
 Эта команда свяжет ваш локальный репозиторий и удалённый. Теперь можно залить локальные изменения:
+
+
+CHAAAAAAAAAAAAAAAAAAAAAAANNNNNNNNNNNGEEEEEEEEEEEEEEEEEEE
+(DB REFERENCE)
